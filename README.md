@@ -1,17 +1,17 @@
-# 📊 Customer Dashboard
+#  Customer Dashboard
 
 Dette er et frontend-projekt til et **kunde-dashboard** lavet med **Next.js, TypeScript og React**.
 
 Dashboardet er tænkt som en brugerflade til at vise kunde-data, grafer og statistikker i et moderne web interface.
 
-## 🚀 Funktioner
+##  Funktioner
 
-- 🧠 Moderne React-baseret SPA med Next.js
-- ⚡ Hurtig navigation og live opdateringer
+-  Moderne React-baseret SPA med Next.js
+-  Hurtig navigation og live opdateringer
 - UI-komponenter til visning af kundeinformation
 - Klar til deployment (f.eks. på Vercel)
 
-## 🛠 Teknologier
+##  Teknologier
 
 Projektet bruger:
 
@@ -21,5 +21,5 @@ Projektet bruger:
 - **CSS** / eventuelt Tailwind eller styled components (afhængigt af opsætning)
 - Deployment via **Vercel**
 
-## 📁 Struktur
+##  Struktur
 
